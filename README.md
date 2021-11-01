@@ -1,2 +1,2 @@
 # Eduzz-Dio-Projeto-Genesis
-Projeto Dio 
+Projeto de criação de jogo Genesis / Eduzz-Dio
